@@ -1,3 +1,2 @@
 # MLOps-price-prediciton
-
-<!-- Uploading "Screenshot 2025-05-23 155711.png"... -->
+![Image](https://github.com/user-attachments/assets/3cbb5d4d-d714-4c82-bf2a-8faf0566a493)
